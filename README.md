@@ -10,6 +10,10 @@ GitHub上面优秀的开源项目不胜枚举，种类也比较多：有技术�
 
 1.[GitHub漫游指南](https://github.com/phodal/github )
 
+2.[CS_Offer](https://github.com/selfboot/CS_Offer )  计算机学科基础知识和主流编程语言相关内容的总结
+
+3.[Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)   程序员应该访问的最佳网站中文版
+
 
 ### 知识型
 
