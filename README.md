@@ -14,6 +14,8 @@ GitHub上面优秀的开源项目不胜枚举，种类也比较多：有技术�
 
 3.[Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)   程序员应该访问的最佳网站中文版
 
+4.[linuxtools_rst](https://github.com/me115/linuxtools_rst)  Linux命令入门教程
+
 
 ### 知识型
 
@@ -22,3 +24,17 @@ GitHub上面优秀的开源项目不胜枚举，种类也比较多：有技术�
 2.[How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)  学会提问
 
 3.[License](https://github.com/qyxxjd/License )  常见的开源协议
+
+
+### 常用工具
+
+1.[DomainBigData](https://domainbigdata.com/)   域名信息查询
+
+2.[Forvo](https://forvo.com/)   发音学习，指导。
+
+3.[Archive](https://archive.org/)  互联网档案博物馆
+
+4.[CloudFlare  IP](https://debug.skk.moe/)  测试你的IP CloudFlare威胁指数
+
+5.[网名生成器](https://www.qmsjmfb.com/)   随机生成网名
+
