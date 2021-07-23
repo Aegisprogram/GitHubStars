@@ -40,3 +40,5 @@ GitHub上面优秀的开源项目不胜枚举，种类也比较多：有技术�
 
 6.[webRTC IP泄露检测](https://ip.voidsec.com/)  检测webRTC是否泄露了浏览器的真实IP
 
+7.[Coveryourtracks](https://coveryourtracks.eff.org/)  检测浏览器指纹的独特程度
+
