@@ -8,13 +8,19 @@ GitHub上面优秀的开源项目不胜枚举，种类也比较多：有技术�
 
 ### 指南型
 
-1.[GitHub漫游指南](https://github.com/phodal/github )
+1.[GitHub漫游指南](https://github.com/phodal/github )  了解并学会使用GitHub
 
 2.[CS_Offer](https://github.com/selfboot/CS_Offer )  计算机学科基础知识和主流编程语言相关内容的总结
 
 3.[Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)   程序员应该访问的最佳网站中文版
 
 4.[linuxtools_rst](https://github.com/me115/linuxtools_rst)  Linux命令入门教程
+
+5.[Docker 培训动手实验文档](https://docker-training-labs.readthedocs.io/en/latest/index.html) 从Docker的基本功能和操作开始,重操作理论。
+
+6.[Docker——从入门到实践](https://yeasy.gitbook.io/docker_practice/) 适用于具备基础 Linux 知识的 Docker 初学者，也可供理解原理和实现的高级用户参考，从易到难，层层递进。
+
+7.[Git教程](https://git-scm.com/book/zh/v2) Git官方网站中文版教程
 
 
 ### 知识型
@@ -41,4 +47,21 @@ GitHub上面优秀的开源项目不胜枚举，种类也比较多：有技术�
 6.[webRTC IP泄露检测](https://ip.voidsec.com/)  检测webRTC是否泄露了浏览器的真实IP
 
 7.[Coveryourtracks](https://coveryourtracks.eff.org/)  检测浏览器指纹的独特程度
+
+8.[File.io](https://www.file.io/)  在线文件传输服务
+
+9.[Free_Online_ToolBox](https://www.toolfk.com/)  最全面的在线工具箱
+
+
+### 隐私安全
+
+1.[推出全球信息监控](https://prism-break.org/zh-CN/)
+
+2.[PrivacyTools](https://www.privacytools.io/)
+
+3.[Fuck_Off_Google](https://wiki.fuckoffgoogle.de/index.php?title=Main_Page)
+
+4.[No_More_Google](https://nomoregoogle.com/)
+
+
 
